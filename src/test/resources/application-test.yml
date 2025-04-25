@@ -1,0 +1,16 @@
+check-keycloak-token: false
+spring.datasource.url: jdbc:postgresql://xxx/xxx
+spring.datasource.username: xxx
+spring.datasource.password: xxx
+keycloak.auth-server-url: xxx
+keycloak.realm: xxx
+keycloak.resource: xxx
+int.keycloak.uri: xxx
+ext.keycloak.client_secret: xxx
+support.email: xxx
+spring.mail.host: xxx
+spring.mail.port: 111
+spring.mail.username: xxx
+spring.mail.password: xxx
+services.portal.uri.external: xxx
+spring.sql.init.continue-on-error: true
